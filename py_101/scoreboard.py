@@ -2,7 +2,16 @@
 # Simple Python scoreboard display with custom border
 # Author: Michael Chipman
 # Date: 2025-11-04
-# For portfolio/github: demonstrates print(), comments, and formatting
+#
+# TECHNICAL CONCEPTS DEMONSTRATED:
+# - Variable Assignment (String & Integer Data Types)
+# - f-String Formatting (String Interpolation)
+# - Output (print() function)
+# - String Manipulation (Concatenation '+', Repetition '*' operators)
+# - Built-in Function (len() for calculating string length)
+# - Effective Code Commenting
+#
+# For portfolio/github: demonstrates a professional approach to foundational code.
 
 # Store current player name
 player = "Ace"
@@ -18,7 +27,7 @@ msg = f"Player {player} Score {score}"
 print('╔' + '═' * (len(msg) - 5) + '╗')
 
 # print output message with border
-print(f'║   {msg}   ║')
+print(f'║   {msg}   ║')
 
 # print bottom border
 print('╚' + '═' * (len(msg) - 5) + '╝')
