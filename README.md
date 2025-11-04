@@ -20,7 +20,7 @@ These are hands-on assignments focusing on essential programming concepts to bui
 
 | File | Status | Description | 
  | ----- | ----- | ----- | 
-| `py_101/scoreboard.py` | Complete (Lesson 1) | Demonstrates core Python syntax, variable management, user input/output handling, and effective in-line commenting. | 
+| [py_101/scoreboard.py](py_101/scoreboard.py) | Complete (Lesson 1) | Demonstrates core Python syntax, variable management, user input/output handling, and effective in-line commenting. | 
 
 ### 2. Homework Assignments
 
