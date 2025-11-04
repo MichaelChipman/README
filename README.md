@@ -1,20 +1,41 @@
-# Michael Chipman
+# Michael Chipman | Aspiring AI Engineer
 
-Aspiring AI engineer currently pursuing my AAS degree at Maestro College.  
-Learning Python and building a foundation in software engineering and automation.  
-This repository will showcase my projects, class assignments, and experiments as I progress through the program.
+### AAS Degree Candidate at Maestro College
 
-## Projects
+I am a foundational learner committed to developing robust **AI engineering and automation skills**. Currently, I am building my core software development expertise, starting with **Python (Py 101)**.
 
-- Python practice scripts  
-  These are hands-on exercises from my coursework at Maestro College. Each script focuses on building foundational Python skills, such as working with variables, getting user input, writing comments, and understanding basic program flow.
-  - **scoreboard.py** — Practice from Lesson 1: basic Python syntax, variables, input/output, and writing comments in code
-- Homework assignments
-- Small automation tools
-- Fun experiments
+This repository serves as my living portfolio, documenting my journey, showcasing class assignments, and tracking personal coding experiments as I progress through the program.
 
-More coming soon!
+## 🌟 My Drive & Interests
 
----
+My focus is on using technology to **automate tasks and solve real-world problems** efficiently. I believe in exploring AI's power and building tools that help teams move forward safely.
 
-*Let’s use AI to build a better future!*
+This drive for **methodical creation** extends to my hobbies, which include **woodworking** and video games focused on automation, balanced by the **creativity** of baking and cooking.
+
+## 🚀 Learning Modules & Projects
+
+### 1. Foundational Python Scripts (Py 101)
+
+These are hands-on assignments focusing on essential programming concepts to build a strong engineering base.
+
+| File | Status | Description | 
+ | ----- | ----- | ----- | 
+| `scoreboard.py` | Complete (Lesson 1) | Demonstrates core Python syntax, variable management, user input/output handling, and effective in-line commenting. | 
+
+### 2. Homework Assignments
+
+*To be populated with larger, multi-concept solutions.*
+
+### 3. Small Automation Tools
+
+*Future projects focusing on efficiency and real-world problem-solving.*
+
+### 4. Fun Experiments
+
+*Future projects focused on creativity, visualization, and new libraries.*
+
+## 🌎 Vision
+
+My ultimate goal is to leverage AI to help humanity build a better future.
+
+**More coming soon!**
