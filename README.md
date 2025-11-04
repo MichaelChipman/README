@@ -22,6 +22,7 @@ These are hands-on assignments focusing on essential programming concepts to bui
  | ----- | ----- | ----- | 
 | [`py_101/scoreboard.py`](py_101/scoreboard.py) | Complete (Lesson 1) | Demonstrates core Python syntax, variable management, user input/output handling, and effective in-line commenting. | 
 | [`py_101/badge_generator.py`](py_101/badge_generator.py) | Complete (Lesson 2) | Focuses on **Error Handling (TypeError/NameError)**, **Type Checking**, variable type conversion (`int()`), and advanced string creation for output. |
+| [`py_101/badge_expressions.py`](py_101/badge_expressions.py) | Complete (Lesson 3) | Focuses on **Arithmetic Expressions**, **Operator Precedence**, `f-string` formatting with math (`:.2f`), and type handling (int, float) for accurate calculations. |
 
 ### 2. Homework Assignments
 
