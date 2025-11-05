@@ -26,6 +26,7 @@ These are hands-on assignments focusing on essential programming concepts to bui
 | [`py_101/badge_update_print.py`](py_101/badge_update_print.py) | Complete (Lesson 4) | Focuses on **Compound Assignment** (`+=`, `-=`), variable reassignment, **comma-separated `print()`**, and the use of the **`round()`** function to correct **floating-point imprecision** due to the base-2 system. |
 | [`py_101/balance_board.py`](py_101/balance_board.py) | Complete (L4 Stretch) | A dedicated stretch challenge project demonstrating **tuple creation** via comma assignment, the resulting `len()` constraint, and the required **string concatenation workaround** for calculating dynamic border sizes. |
 | [`py_101/modeling_real_world_calculations.py`](py_101/modeling_real_world_calculations.py) | Complete (Lesson 5) | Focuses on translating word problems, comparing expression clarity, and a deep dive into **Type Errors** and **String/Tuple data type constraints** when using concatenation (`+`) versus explicit `str()` casting. |
+| [`py_101/division_ops.py`](py_101/division_ops.py) | Complete (Lesson 6) | Focuses on the three division operators: **True Division (`/`)**, **Floor Division (`//`)**, and the **Modulo Operator (`%`)** for finding quotients and remainders in practical, real-world applications (e.g., time and boxes). |
 
 ### 2. Homework Assignments
 
