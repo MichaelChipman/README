@@ -29,6 +29,7 @@ These are hands-on assignments focusing on essential programming concepts to bui
 | [`py_101/division_ops.py`](py_101/division_ops.py) | Complete (Lesson 6) | Focuses on the three division operators: **True Division (`/`)**, **Floor Division (`//`)**, and the **Modulo Operator (`%`)** for finding quotients and remainders in practical, real-world applications (e.g., time and boxes). |
 | [`py_101/modulo_practice.py`](py_101/modulo_practice.py) | Complete (Lesson 7) | Focuses on advanced applications of the **Modulo Operator (`%`)** for determining **parity** (even/odd), calculating **cycle repetition**, and finding a specific **position** within a repeating sequence (e.g., scheduling). |
 | [`py_101/rounding_and_money.py`](py_101/rounding_and_money.py) | Complete (Lesson 8) | Demonstrates **currency formatting** by distinguishing between **value rounding** (`round()`) and **output formatting** (`:.2f`), explicitly addressing floating-point imprecision and reusing the Modulo Operator for scheduling. |
+| [`py_101/user_input_demo.py`](py_101/user_input_demo.py) | Complete (Lesson 9) | Focuses on **user input (`input()`)** and **explicit type casting** (`int()`, `float()`), demonstrating how to handle raw string input and convert it into numerical data required for calculations like averaging test scores. |
 
 ### 2. Homework Assignments
 
