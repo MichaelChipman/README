@@ -31,6 +31,7 @@ These are hands-on assignments focusing on essential programming concepts to bui
 | [`py_101/rounding_and_money.py`](py_101/rounding_and_money.py) | Complete (Lesson 8) | Demonstrates **currency formatting** by distinguishing between **value rounding** (`round()`) and **output formatting** (`:.2f`), explicitly addressing floating-point imprecision and reusing the Modulo Operator for scheduling. |
 | [`py_101/user_input_demo.py`](py_101/user_input_demo.py) | Complete (Lesson 9) | Focuses on **user input (`input()`)** and **explicit type casting** (`int()`, `float()`), demonstrating how to handle raw string input and convert it into numerical data required for calculations like averaging test scores. |
 | [`py_101/functions_i.py`](py_101/functions_i.py) | Complete (Lesson 10) | Introduces **functional programming**, demonstrating the core concepts of **definition (`def`)**, **calling**, and using **parameters (arguments)** to create reusable, organized, and self-documenting code with `docstrings`. |
+| [`py_101/functions_return_practice.py`](py_101/functions_return_practice.py) | Complete (Lesson 11) | Focuses on the **`return` statement**, demonstrating how functions pass data back to the calling scope. It explicitly contrasts function output (return value) with **side effects** (debugging `print` statements). |
 
 ### 2. Homework Assignments
 
