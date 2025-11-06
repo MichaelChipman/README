@@ -28,6 +28,7 @@ These are hands-on assignments focusing on essential programming concepts to bui
 | [`py_101/modeling_real_world_calculations.py`](py_101/modeling_real_world_calculations.py) | Complete (Lesson 5) | Focuses on translating word problems, comparing expression clarity, and a deep dive into **Type Errors** and **String/Tuple data type constraints** when using concatenation (`+`) versus explicit `str()` casting. |
 | [`py_101/division_ops.py`](py_101/division_ops.py) | Complete (Lesson 6) | Focuses on the three division operators: **True Division (`/`)**, **Floor Division (`//`)**, and the **Modulo Operator (`%`)** for finding quotients and remainders in practical, real-world applications (e.g., time and boxes). |
 | [`py_101/modulo_practice.py`](py_101/modulo_practice.py) | Complete (Lesson 7) | Focuses on advanced applications of the **Modulo Operator (`%`)** for determining **parity** (even/odd), calculating **cycle repetition**, and finding a specific **position** within a repeating sequence (e.g., scheduling). |
+| [`py_101/rounding_and_money.py`](py_101/rounding_and_money.py) | Complete (Lesson 8) | Demonstrates **currency formatting** by distinguishing between **value rounding** (`round()`) and **output formatting** (`:.2f`), explicitly addressing floating-point imprecision and reusing the Modulo Operator for scheduling. |
 
 ### 2. Homework Assignments
 
