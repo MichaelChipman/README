@@ -30,6 +30,7 @@ These are hands-on assignments focusing on essential programming concepts to bui
 | [`py_101/modulo_practice.py`](py_101/modulo_practice.py) | Complete (Lesson 7) | Focuses on advanced applications of the **Modulo Operator (`%`)** for determining **parity** (even/odd), calculating **cycle repetition**, and finding a specific **position** within a repeating sequence (e.g., scheduling). |
 | [`py_101/rounding_and_money.py`](py_101/rounding_and_money.py) | Complete (Lesson 8) | Demonstrates **currency formatting** by distinguishing between **value rounding** (`round()`) and **output formatting** (`:.2f`), explicitly addressing floating-point imprecision and reusing the Modulo Operator for scheduling. |
 | [`py_101/user_input_demo.py`](py_101/user_input_demo.py) | Complete (Lesson 9) | Focuses on **user input (`input()`)** and **explicit type casting** (`int()`, `float()`), demonstrating how to handle raw string input and convert it into numerical data required for calculations like averaging test scores. |
+| [`py_101/functions_i.py`](py_101/functions_i.py) | Complete (Lesson 10) | Introduces **functional programming**, demonstrating the core concepts of **definition (`def`)**, **calling**, and using **parameters (arguments)** to create reusable, organized, and self-documenting code with `docstrings`. |
 
 ### 2. Homework Assignments
 
