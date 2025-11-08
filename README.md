@@ -36,6 +36,7 @@ These are hands-on assignments focusing on essential programming concepts to bui
 | [`py_101/scope_demo.py`](py_101/scope_demo.py) | Complete (Lesson 13) | Demonstrates global vs. local variable scope, variable shadowing, and how the return statement is necessary to update global state. |
 | [`py_101/python_errors.py`](py_101/python_errors.py) | Complete (Lesson 14) | Demonstrates how to read and interpret Python tracebacks and identifies common errors like NameError, TypeError, and UnboundLocalError. |
 | [`py_101/debugging_intro.py`](py_101/debugging_intro.py) | Complete (Lesson 15) | Introduces fundamental debugging practices, including using `print()` probes to trace variable values and identifying bugs in basic arithmetic and type-mixing operations. |
+| [`py_101/mini_receipt_calculator.py`](py_101/mini_receipt_calculator.py) | Complete (Wk 1 Review) | A capstone project demonstrating **user input**, **explicit type casting**, **function definition**, and advanced **f-string currency formatting** to generate a real-store receipt layout. |
 
 ### 2. Homework Assignments
 
