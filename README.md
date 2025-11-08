@@ -34,6 +34,7 @@ These are hands-on assignments focusing on essential programming concepts to bui
 | [`py_101/functions_return_practice.py`](py_101/functions_return_practice.py) | Complete (Lesson 11) | Focuses on the **`return` statement**, demonstrating how functions pass data back to the calling scope. It explicitly contrasts function output (return value) with **side effects** (debugging `print` statements). |
 | [`py_101/functions_return_vs_print.py`](py_101/functions_return_vs_print.py) | Complete (Lesson 12) | Compares the function of `print()` vs. `return`, demonstrates dynamic formatting, and illustrates the use of the early return statement. |
 | [`py_101/scope_demo.py`](py_101/scope_demo.py) | Complete (Lesson 13) | Demonstrates global vs. local variable scope, variable shadowing, and how the return statement is necessary to update global state. |
+| [`py_101/python_errors.py`](py_101/python_errors.py) | Complete (Lesson 14) | Demonstrates how to read and interpret Python tracebacks and identifies common errors like NameError, TypeError, and UnboundLocalError. |
 
 ### 2. Homework Assignments
 
