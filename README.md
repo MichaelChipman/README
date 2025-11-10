@@ -40,6 +40,7 @@ These are hands-on assignments focusing on essential programming concepts to bui
 | [`py_101/decisions_vs_repetitions.py`](py_101/decisions_vs_repetitions.py) | Complete (Lesson 16) | Introduces the foundational concepts of **decision structures** (`#S`) and **repetition structures** (`#R`) by differentiating between conditional actions and iterative tasks. |
 | [`py_101/if_else_mental.py`](py_101/if_else_mental.py) | Complete (Lesson 17) | Demonstrates core `if`/`else` syntax, the importance of **indentation** and **comparison operators**, including checking for parity using the **Modulo Operator (`%`)**. |
 | [`py_101/logical_operations_demo.py`](py_101/logical_operations_demo.py) | Complete (Lesson 18) | Demonstrates **logical operators (`and`, `or`, `not`)**, how **truth tables** function, and the efficiency concept of **short-circuit evaluation** in conditional statements. |
+| [`py_101/identity_vs_equality.py`](py_101/identity_vs_equality.py) | Complete (Lesson 19) | Explores the difference between **Value Equality (`==`)** and **Object Identity (`is`)**, including concepts like **Boolean representation**, **integer caching**, and **floating-point imprecision**. |
 
 ### 2. Homework Assignments
 
