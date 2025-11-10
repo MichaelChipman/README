@@ -37,6 +37,7 @@ These are hands-on assignments focusing on essential programming concepts to bui
 | [`py_101/python_errors.py`](py_101/python_errors.py) | Complete (Lesson 14) | Demonstrates how to read and interpret Python tracebacks and identifies common errors like NameError, TypeError, and UnboundLocalError. |
 | [`py_101/debugging_intro.py`](py_101/debugging_intro.py) | Complete (Lesson 15) | Introduces fundamental debugging practices, including using `print()` probes to trace variable values and identifying bugs in basic arithmetic and type-mixing operations. |
 | [`py_101/mini_receipt_calculator.py`](py_101/mini_receipt_calculator.py) | Complete (Wk 1 Review) | A capstone project demonstrating **user input**, **explicit type casting**, **function definition**, and advanced **f-string currency formatting** to generate a real-store receipt layout. |
+| [`py_101/decisions_vs_repetitions.py`](py_101/decisions_vs_repetitions.py) | Complete (Lesson 16) | Introduces the foundational concepts of **decision structures** (`#S`) and **repetition structures** (`#R`) by differentiating between conditional actions and iterative tasks. |
 
 ### 2. Homework Assignments
 
