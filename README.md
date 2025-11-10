@@ -61,6 +61,18 @@ Future projects focusing on efficiency and real-world problem-solving.
 
 Future projects focused on creativity, visualization, and new libraries.
 
+---
+
+## 🤝 Community & Technical Discussions
+
+I believe in active participation and professional discourse. This section logs external discussions related to my learning process, workflow, and core technical concepts.
+
+* **Reddit Post:** [Accelerating Py 101 with an Engineer's Workflow](https://www.google.com/search?q=https://www.reddit.com/r/maestro/comments/1otaoge/maestro_ai_academy_accelerating_my-python-base_py/)
+
+  * **Focus:** AI-Assisted Documentation (Gemini), Portfolio Structure (GitHub/README), `is` vs. `==` Conceptual Clarity, Finding a Study Partner.
+
+---
+
 🌎 Vision
 
 My ultimate goal is to leverage AI to help humanity build a better future.
