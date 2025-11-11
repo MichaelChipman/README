@@ -92,7 +92,7 @@ These are hands-on assignments focusing on essential programming concepts to bui
 | [`py_101/identity_vs_equality.py`](py_101/identity_vs_equality.py) | Complete (Lesson 19) | Explores the difference between **Value Equality (`==`)** and **Object Identity (`is`)**, including concepts like **Boolean representation**, **integer caching**, and **floating-point imprecision**. |
 
 | [`py_101/string_membership_and_conditionals.py`](py_101/string_membership_and_conditionals.py) | New (Lesson 20) | Demonstrates the usage of the **`in`** and **`not in`** string membership operators and fundamental **`if/elif/else`** conditional control flow, including case sensitivity. |
-
+| [`py_101/elif_refactoring.py`](py_101/elif_refactoring.py) | New (Lesson 21) | Demonstrates the **refactoring of nested `if` statements** into the `if/elif` structure, highlighting the trade-off between **complexity** and **conditional exclusivity**. |
 
 
 ### 2. Homework Assignments
