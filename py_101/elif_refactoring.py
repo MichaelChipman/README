@@ -13,6 +13,8 @@ Technical Concepts Demonstrated:
 - Condition Order Dependence (Logic relies on checking the largest range first)
 - Refactoring Deep Nested Conditionals
 - Trade-off of If/Elif Exclusivity vs. Nested Complexity
+- Multiple Condition Elif Ladder
+- Sequential String and Role Validation
 """
 
 # ----------- Nested Conditionals -----------
@@ -34,11 +36,11 @@ else:
 # Initialize the value used for conditional checks.
 x = 9
 # Refactored Logic: Flattens a deep, nested IF structure into a single, comprehensive check 
-# using the 'and' operator for perfect match against three separate criteria (value, length, content).
+# using the 'and' operator for perfect match against both criteria.
 if x > 5 and x < 20:
     print("A")
 # This 'elif' condition is technically redundant in this structure,
-# as it is only reached if x is 20 or greater.
+# as it is only reached if x is 20 or greater, but demonstrates Elif structure.
 elif x > 5:
     print("B")
 # Executes only if both the 'if' and 'elif' conditions are false (i.e., x <= 5).
@@ -60,11 +62,10 @@ else:
 # else:
 #     print("Unknown code")
 
-# Initialize the string variable for validation checks (using the actual code from your lesson file).
+# Initialize the string variable for validation checks.
 discount_code = "SOMECOd24"
-# Refactored Logic: This flat IF/ELIF structure is cleaner but creates a critical trade-off. 
-# Because ELIF branches are mutually exclusive, the order is now critical, and not all original 
-# failure paths may be guaranteed to be hit (unlike the original nested version).
+# Refactored Logic: This flat IF/ELIF structure creates a trade-off. Because ELIF branches 
+# are mutually exclusive, the order is critical, and not all original failure paths may be hit.
 if discount_code == "START20" and len(discount_code) == 7 and "20" in discount_code:
     print("Valid code, 20% off!")
 # Check the first failure condition: missing the required substring "20".
@@ -89,5 +90,38 @@ elif price > 50:
 # Check the smallest range. This block is only reached if the price is NOT > 50.
 elif price > 30:
     print("small fry")
+
+# ----------- Multiple Condition Elif Ladder -----------
+# Initialize the value for scoring analysis.
+score = 64
+# Check the main bucket, top scores.
+if score > 60:
+    print("almost there")
+# Check the middle range. Executed only if score is not > 60.
+elif score > 50:
+    print("decent")
+# Check the lower passing range. Executed only if score is not > 50.
+elif score > 30:
+    print("needs work")
+# Last chance block: executes if all preceding conditions were False.
+else:
+    print("try again")
+
+# ----------- Sequential String and Role Validation -----------
+# Initialize the string variable and user role.
+user_id = "someone123"
+role = "user"
+# Validation Check 1: Ensures the user_id contains the required string (e.g., an '@').
+if "@" not in user_id:
+    print("invalid id")
+# Validation Check 2: Check for a specific restricted role. Executed only if user_id was valid.
+elif role == "admin":
+    print("access denied")
+# Validation Check 3: Check for another limited role. Executed only if role is not "admin".
+elif role == "mod":
+    print("warning: limited access")
+# Executes if all preceding validation checks passed.
+else:
+    print("welcome")
 
 # end elif_refactoring.py
