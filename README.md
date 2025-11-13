@@ -93,7 +93,7 @@ These are hands-on assignments focusing on essential programming concepts to bui
 
 | [`py_101/string_membership_and_conditionals.py`](py_101/string_membership_and_conditionals.py) | New (Lesson 20) | Demonstrates the usage of the **`in`** and **`not in`** string membership operators and fundamental **`if/elif/else`** conditional control flow, including case sensitivity. |
 | [`py_101/elif_refactoring.py`](py_101/elif_refactoring.py) | Updated (Lesson 21) | Demonstrates the **refactoring of nested `if` statements** into the `if/elif` structure, highlighting the trade-off between **complexity** and **conditional exclusivity**.
-
+| [`py_101/elif_order_dependence.py`](py_101/elif_order_dependence.py) | New (Lesson 22) | Demonstrates **order dependence** in `if/elif` ladders, showing how Python's **short-circuiting** critically affects which condition is evaluated as True. |
 
 ### 2. Homework Assignments
 
