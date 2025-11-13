@@ -101,6 +101,8 @@ These are hands-on assignments focusing on essential programming concepts to bui
 
 | [`py_101/while_loop_basics.py`](py_101/while_loop_basics.py) | New (Lesson 24) | Demonstrates the structure of the **`while` loop**, focusing on the crucial need for a control (update/sentinel) variable to prevent **infinite loops**. |
 
+| [`py_101/break_continue_and_exceptions.py`](py_101/break_continue_and_exceptions.py) | New (Lesson 25) | Demonstrates the control flow of **`break`** and **`continue`**, showing how to build **robust input loops** using `while True` and basic **`try/except`** exception handling. |
+
 ### 2. Homework Assignments
 
 
